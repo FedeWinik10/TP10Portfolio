@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "titulo": "TP9_API",
+      "descripcion": "Trabajando sobre las API.",
+      "imagen": "API.png",
+      "fecha": "2022-11-14",
+      "url": "https://github.com/FedeWinik10/TP9_API"
+    },
+    {
+        "id": 2,
+        "titulo": "tpdiagnostico",
+        "descripcion": "Haciendo un diagnostico sobre la materia",
+        "imagen": "diagnostico.png",
+        "fecha": "2023-03-13",
+        "url": "https://github.com/FedeWinik10/tpdiagnostico"
+      },
+      {
+        "id": 3,
+        "titulo": "TP2-TODO-List ",
+        "descripcion": "Aplicacion usando listas",
+        "imagen": "lista.png",
+        "fecha": "2023-04-17",
+        "url": "https://github.com/FedeWinik10/TP2-TODO-List"
+      },
+      {
+        "id": 4,
+        "titulo": "Evaluacion-NodeJS",
+        "descripcion": "Desarrolo de una api con preguntas y respuestas",
+        "imagen": "api3.png",
+        "fecha": "2023-07-14",
+        "url": "https://github.com/FedeWinik10/Evaluacion-NodeJS"
+      },
+      {
+        "id": 5,
+        "titulo": "tp7DirectorioDePersonas",
+        "descripcion": "Aplicacion usando react router",
+        "imagen": "reactrouter.png",
+        "fecha": "2023-09-04",
+        "url": "https://github.com/FedeWinik10/tp7DirectorioDePersonas"
+      },
+      {
+        "id": 6,
+        "titulo": "TP-CatalogosParte2",
+        "descripcion": "La segunda parte de el trabajo de catalogos",
+        "imagen": "catalogo.jpg",
+        "fecha": "2023-09-28",
+        "url": "https://github.com/FedeWinik10/TP-CatalogosParte2"
+      },
+      {
+        "id": 7,
+        "titulo": "ComidasCorregido",
+        "descripcion": "Aplicacion para usar un filtro de comidas",
+        "imagen": "comidas.jpg",
+        "fecha": "2023-10-11",
+        "url": "https://github.com/FedeWinik10/ComidasCorregido"
+      },
+      {
+        "id": 8,
+        "titulo": "TP--Hardware",
+        "descripcion": "Aplicacion para desarrollar tu propio hardware",
+        "imagen": "Hardware.jpg",
+        "fecha": "2023-10-20",
+        "url": "https://github.com/FedeWinik10/TP--Hardware"
+      },
+      {
+        "id": 9,
+        "titulo": "proyectofinalnuevo",
+        "descripcion": "El trabajo final de la materia proyecto final",
+        "imagen": "Nutra.png",
+        "fecha": "2023-10-29",
+        "url": "https://github.com/FedeWinik10/proyectofinalnuevo"
+      },
+      {
+        "id": 10,
+        "titulo": "TP10Portfolio",
+        "descripcion": "Aplicacion para hacer tu propio portfolio",
+        "imagen": "Portfolio.jpeg",
+        "fecha": "2023-11-15",
+        "url": "https://github.com/FedeWinik10/TP10Portfolio"
+      }
+    
+  ]
